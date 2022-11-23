@@ -1,0 +1,39 @@
+// Vitest Snapshot v1
+
+exports[`Testing Click Counter App > Should match the snapshot 1`] = `
+<div>
+  <div
+    class="re-CounterApp"
+  >
+    <h1
+      class="re-CounterTitle"
+    >
+      Simple Click Counter
+    </h1>
+    <p
+      class="re-Counter"
+    >
+      0
+    </p>
+    <div
+      class="re-Counter-wrapButtons"
+    >
+      <button
+        class="re-Counter-button Counter-button--increment"
+      >
+        Increment
+      </button>
+      <button
+        class="re-Counter-button Counter-button--reset"
+      >
+        Reset
+      </button>
+      <button
+        class="re-Counter-button Counter-button--decrement"
+      >
+        Decrement
+      </button>
+    </div>
+  </div>
+</div>
+`;
